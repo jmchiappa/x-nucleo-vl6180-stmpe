@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map Servo
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+VL6180STMPE	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+init		KEYWORD2
+displayValue			KEYWORD2
+select_VL	KEYWORD2
+deselect_VL				KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+VL6180_CE_TOP
+VL6180_CE_BOTTOM
+VL6180_CE_LEFT
+VL6180_CE_RIGHT
